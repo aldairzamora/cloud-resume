@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "K8XhQjBZz6Ly0LwrDkl9Jzr6NENjOAg9s5f3XS6DjWkKzBtz2RVNoFlH81+X8jYduyLz9hsmURMtmBUlMKoX6w==",
+  "success": true,
+  "projectFilePath": "/Users/aldairzamora/Programming/cloud-resume/backend/CloudResume/ResumeApi/ResumeApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/aldairzamora/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/aldairzamora/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/aldairzamora/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/aldairzamora/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/aldairzamora/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/aldairzamora/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
